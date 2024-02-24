@@ -81,7 +81,7 @@ M.groups = function()
 		["MsgSeparator"]   = { fg = 'NONE',          bg = c['bg-2'] },
 
 		-- Pop-up menu
-		["Pmenu"]      = { fg = c['tx-2'], bg = c['bg-2'], sp = 'NONE', blend = 50, },
+		["Pmenu"]      = { fg = c['tx-2'], bg = c['bg-2'], sp = 'NONE' },
 		["PmenuSel"]   = { fg = c['tx'],   bg = c['cy-2'] },
 		["PmenuSbar"]  = { fg = 'NONE',    bg = c['ui']   },
 		["PmenuThumb"] = { fg = 'NONE',    bg = c['ui-3'] },
